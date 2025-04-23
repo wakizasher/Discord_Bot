@@ -1,0 +1,5 @@
+Temperature in St. Petersburg: 7.82 C
+Temperature feels like: 3.84 C
+Humidity is 92%
+Wind speed is 8%
+overcast clouds

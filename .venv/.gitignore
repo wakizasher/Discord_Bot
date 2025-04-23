@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+*.txt
+creds_discord.py
+creds_weather.py
